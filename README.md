@@ -1,2 +1,2 @@
 # TributePage
- A plain simple website as a tribute for BruceLee
+ A plain simple website as a tribute for Steve Jobs
